@@ -1,5 +1,3 @@
-### **GitHub Repository README Sample**  
-
 # **Customer Spending Analysis - Predictive Modeling Project**  
 
 📊 **Exploratory Data Analysis (EDA) & Predictive Modeling for Customer Spending Behavior**  
